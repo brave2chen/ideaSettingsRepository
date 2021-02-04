@@ -1,0 +1,217 @@
+<application>
+  <component name="AppStorage">
+    <option name="maxHistorySize" value="500" />
+    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogX" value="766" />
+    <option name="newTranslationDialogY" value="260" />
+    <histories>
+      <item value="webhook" />
+      <item value="test" />
+      <item value="critical" />
+      <item value="Connectors Websocket Links Count Total High" />
+      <item value="Connectors Websocket Links Count High" />
+      <item value="Connector Current Websocket Links Count High" />
+      <item value="Connector Current Websocket Links High" />
+      <item value="current Websocket Connections Count" />
+      <item value="current websocket connections" />
+      <item value="Distribution" />
+      <item value="环境" />
+      <item value="envirvement" />
+      <item value="envirvenment" />
+      <item value="access" />
+      <item value="precision" />
+      <item value="nginx VERSION" />
+      <item value="follow the naming convention of Istio port." />
+      <item value="revision" />
+      <item value="canonical" />
+      <item value="Higher Bit Trace Configuration" />
+      <item value="or use OkHttpClient directly. However when doing multiple async requests simultaneously, parent spans created before invoking the client are not properly inferred." />
+      <item value="termination Grace Period Seconds" />
+      <item value="progress Deadline Seconds" />
+      <item value="negotiation Type" />
+      <item value="In case of exception network interceptor is not called" />
+      <item value="custom" />
+      <item value="opentracing" />
+      <item value="provided" />
+      <item value="Handshake Handler" />
+      <item value="registered" />
+      <item value="This dependency is exported to consumers, that is to say found on their compile classpath." />
+      <item value="This dependency is used internally, and not exposed to consumers on their own compile classpath." />
+      <item value="SNAPSHOT" />
+      <item value="take Effect" />
+      <item value="CI Compiler Count" />
+      <item value="Soft Ref LRU Policy MS Per MB" />
+      <item value="Use Conc Mark Sweep GC" />
+      <item value="Reserved Code Cache Size" />
+      <item value="resort" />
+      <item value="list With Extends Data By Parent Id" />
+      <item value="list Data With Extends Data By Parent Id" />
+      <item value="get Data With Extends By Parent Id" />
+      <item value="unshift" />
+      <item value="遍历" />
+      <item value="cascader" />
+      <item value="已覆写" />
+      <item value="已复写" />
+      <item value="已重写" />
+      <item value="overwrited" />
+      <item value="inherit" />
+      <item value="model Number" />
+      <item value="Http Accessor" />
+      <item value="Tracing Header Propagation" />
+      <item value="Tracing Propagation Filter For Http Server" />
+      <item value="propagation" />
+      <item value="with no direct replacement" />
+      <item value="get Baggage" />
+      <item value="Remote Controlled Sampler" />
+      <item value="Rate Limiting Sampler" />
+      <item value="Probabilistic Sampler" />
+      <item value="Const Sampler" />
+      <item value="PILOT ENABLE PROTOCOL SNIFFING FOR INBOUND" />
+      <item value="trace Sampling" />
+      <item value="X-B 3-Sampled" />
+      <item value="mesh's Trust Domain. The best practice is to select a proper Trust Domain" />
+      <item value="envoy upstream DNS refresh rate reset for jaeger-collector.istio-system.svc.cluster.local, refresh rate 5000 ms" />
+      <item value="Envoy" />
+      <item value="Galley" />
+      <item value="Citadel" />
+      <item value="Mixer" />
+      <item value="Pilot" />
+      <item value="Kafka" />
+      <item value="Set URL for in-cluster access. Example: &quot;http:grafana.istio-system:3000&quot;. This URL can contain query parameters if needed, such as &quot;?orgId=1&quot;." />
+      <item value="The URL that Kiali uses when integrating with Grafana. This URL must be accessible to clients external to the cluster in order for the integration to work properly. If empty, an attempt to auto-discover it is made. This URL can contain query parameters if needed, such as &quot;?orgId=1&quot;." />
+      <item value="Flag to indicate Kiali to enabledisable an Action to label a namespace for automatic Istio Sidecar injection." />
+      <item value="indicate" />
+      <item value="tolerance" />
+      <item value="EnableDisable of istio component status into masthead indicator." />
+      <item value="please check the section below about Prometheus-specific settings: they are identical. The Prometheus configuration defined here is dedicated to fetching custom dashboards, hence allowing to use a different instance of Prometheus. If omitted, the same Prometheus as for Istio metrics will be reused for custom dashboards." />
+      <item value="Prometheus label name used for identifying namespaces in metrics for custom dashboards." />
+      <item value="sensitive" />
+      <item value="verbose mode" />
+      <item value="tolerations" />
+      <item value="dictate" />
+      <item value="precedence" />
+      <item value="Consult" />
+      <item value="Affinity" />
+      <item value="individual" />
+      <item value="fail to handshake, wsSessionFuture is null" />
+      <item value="insecure skip verify" />
+      <item value="enable pod disruption budget for the control plane, which is used to ensure Istio control plane components are gradually upgraded or recovered." />
+      <item value="Disruption" />
+      <item value="default Pod Disruption Budget" />
+      <item value="stackdriver" />
+      <item value="telemetry" />
+      <item value="additional service yaml" />
+      <item value="This is required for &quot;openshift&quot; auth strategy." />
+      <item value="hotrod" />
+      <item value="tracer" />
+      <item value="in cluster url" />
+      <item value="Set whitelist services in istio-system to check their traces" />
+      <item value="Note about sensitive values in the external_services &quot;auth&quot; sections: Some external services configured below support an &quot;auth&quot; sub-section in order to tell Kiali how it should authenticate with the external services. Credentials used to authenticate Kiali to those external services can be defined in the &quot;auth.password&quot; and &quot;auth.token&quot; values within the &quot;auth&quot; sub-section. Because these are sensitive values, you may not want to declare the actual credentials here in the Kiali CR. In this case, you may store the actual password or token string in a Kubernetes secret. If you do, you need to set the &quot;auth.password&quot; or &quot;auth.token&quot; to a value in the format &quot;secret:&lt;secretName&gt;:&lt;secretKey&gt;&quot; where" />
+      <item value="The namespaces where individual Istio components are installed. If left empty, it is assumed all Istio components are installed in the defined istio_namespace. If a component is not listed here, it is assumed that component is installed in istio_namespace. For example: istio_component_namespaces: prometheus: prom-ns means Prometheus is installed in the namespace &quot;prom-ns&quot; but all other Istio components are installed in the namespace defined in istio_namespace." />
+      <item value="Tag used to identify a particular instanceinstallation of the Kiali server." />
+      <item value="A list of additional details that Kiali will look for in annotations and display, for every workload and service, in their respective details pages. It can typically be used to inject some CI metadata or documentation links into Kiali views. Each item in the list is an object with &quot;annotation&quot;, &quot;title&quot; and &quot;icon_annotation&quot; fields to indicate which annotation Kiali needs to look for, and how it should be displayed. &quot;icon_annotation&quot; is optional and would display an icon next to the text. At the moment, the value of the icon annotation can only be one of &quot;rest&quot;, &quot;grpc&quot; or &quot;graphql&quot;; otherwise, it is ignored. By default, these settings recognize API Documentation links via annotation &quot;kiali.ioapi-spec&quot; and icon-annotation &quot;kiali.ioapi-type&quot;. For example, it would make Kiali recognize these annotations in a service or a workload definition (Deployment, StatefulSet, etc.) to display the appropriate link and text: annotations: kiali.ioapi-spec: http:linktomydoc kiali.ioapi-type: rest Should you change this setting for your own custom annotations, keep in mind that it would override the current default. So you would have to copy the &quot;API Documentation&quot; setting as shown above if you want to preserve these links." />
+      <item value="This is a fully documented Kiali custom resource yaml file. It can be used to tell the Kiali Operator to install Kiali. This is actually an empty Kiali CR, however, it provides documentation on all available settings. In each documented section, you will see a &quot;---&quot; marker; below that marker you will see the names of the settings along with their default values. If the setting is not defined by default, its name will be prefixed with &quot;&quot;." />
+      <item value="view only mode" />
+      <item value="This only limits what Kiali will attempt to see, but Kiali Service Account has permissions to see everything. For more control over what the Kial Service Account can see, use the Kiali Operator" />
+      <item value="storage" />
+      <item value="cassandra" />
+      <item value="jaeger" />
+      <item value="Jaeger" />
+      <item value="Zipkin is an alternative to Jaeger and is not deployed by default." />
+      <item value="alternative" />
+      <item value="frontend" />
+      <item value="CHECK RESULTS EVERY SECONDS" />
+      <item value="KEEP HISTORY" />
+      <item value="KEEP HISTORY LATEST" />
+      <item value="Bucket" />
+      <item value="菜盘" />
+      <item value="plate" />
+      <item value="plat" />
+      <item value="pan" />
+      <item value="pot" />
+      <item value="ok." />
+      <item value="可以" />
+      <item value="锅" />
+      <item value="pop" />
+      <item value="popcorn" />
+      <item value="爆米花" />
+      <item value="cornpon" />
+      <item value="alpine" />
+      <item value="disable Deletion" />
+      <item value="mesh Expansion" />
+      <item value="Global and common settings for installing Istio. This file is configured for a small scale production cluster. Use custom settings to tune up the CPU and scaling. Additional values overrides can be used. Each individual component will use values from this file, with defaults and 'advanced' settings included in its own chart's values.yaml. TODO: trim this file to commonly used settings, leave 'advanced' in the individual values.yaml (they can still be overridden by users, but won't show in basic documentation. This doesn't match istio defaults, which are more geared towards tests and bookinfo." />
+      <item value="upsert" />
+      <item value="kiali" />
+      <item value="DEPRECATED" />
+      <item value="producer" />
+      <item value="business" />
+      <item value="rocket" />
+      <item value="rocketmq" />
+      <item value="toggle" />
+      <item value="collector" />
+      <item value="a Dfrs IH Mi 836 jjpjtx Q Aa MPXF 8" />
+      <item value="audio" />
+      <item value="secret Key" />
+      <item value="pilot" />
+      <item value="PROD" />
+      <item value="prometheus" />
+      <item value="V Condition" />
+      <item value="idea" />
+      <item value="midea" />
+      <item value="aimidea" />
+      <item value="ailink" />
+      <item value="connector" />
+      <item value="hold Application Until Proxy Starts" />
+      <item value="If set to true, istio-proxy container will have privileged securityContext" />
+      <item value="operator Manage Webhooks" />
+      <item value="omit Sidecar Injector Config Map" />
+      <item value="Comma-separated minimum per-scope logging level of messages to output, in the form of &lt;scope&gt;:&lt;level&gt;,&lt;scope&gt;:&lt;level&gt; The control plane has different scopes depending on component, but can configure default log level across all components If empty, default scope and level will be used as configured in code" />
+      <item value="Enabled by default in master for maximising testing." />
+      <item value="What we may configure in mesh config is the &quot;.global&quot; - and use of other suffixes. No hurry to do this in 1.6, we're trying to prove the code." />
+      <item value="Config for the default ProxyConfig. Initially using directly the proxy metadata - can also be activated using annotations on the pod. This is an unsupported low-level API, pending review and decisions on enabling the feature. Enabling the DNS listener is safe - and allows further testing and gradual adoption by setting capture only on specific workloads. It also allows VMs to use other DNS options, like dnsmasq or unbound." />
+      <item value="todo: the intent is to eventually have this enabled by default when security is used. it is not clear if user should normally need to configure - the metadata is typically used as an escape and to control testing and rollout, but it is not intended as a long-term stable api." />
+      <item value="it" />
+      <item value="root" />
+      <item value="plaintext" />
+      <item value="liveness Probe" />
+      <item value="## Global Docker image parameters ## Please, note that this will override the image parameters, including dependencies, configured to use the global value ## Current available global Docker image parameters: imageRegistry and imagePullSecrets ##" />
+      <item value="If set to &quot;-&quot;, storageClassName: &quot;&quot;, which disables dynamic provisioning" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="169" />
+        <entry key="DANISH" value="1" />
+        <entry key="DUTCH" value="1" />
+        <entry key="ROMANIAN" value="1" />
+        <entry key="SPANISH" value="2" />
+        <entry key="ITALIAN" value="1" />
+        <entry key="HINDI" value="2" />
+        <entry key="INDONESIAN" value="4" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1612246772997" />
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20201222000653285" />
+      </app-key>
+    </option>
+    <option name="foldOriginal" value="true" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Monospaced" />
+    <option name="primaryFontFamily" value="Monospaced" />
+    <option name="showExplanation" value="true" />
+    <option name="showWordsOnStartup" value="true" />
+    <option name="translateDocumentation" value="true" />
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="19480c7ee8866ad5" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>

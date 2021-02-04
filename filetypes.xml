@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern="docker-init" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
+      <mapping ext="ci" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="lst" type="PLAIN_TEXT" />
+      <mapping ext="types" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="nginx" />
+      <removed_mapping pattern="kiali.yaml" approved="true" type="Vue.js" />
+    </extensionMap>
+  </component>
+</application>
