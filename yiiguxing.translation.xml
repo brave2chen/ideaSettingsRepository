@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="766" />
     <option name="newTranslationDialogY" value="260" />
     <histories>
+      <item value="tornado" />
+      <item value="if multiple SEs use the same port number." />
+      <item value="For TCP services the IP ranges SHOULD be specified to avoid problems" />
+      <item value="pip install may fetch files from files.pythonhosted.org" />
+      <item value="pypi.python.org may 301 redirect to pypi.org, so we need this too." />
+      <item value="This ServiceEntry exposes the hosts needed for Python `pip`. After applying this file, Istio-enabled pods will be able to execute `pip search istio`." />
+      <item value="dummy" />
       <item value="webhook" />
       <item value="test" />
       <item value="critical" />
@@ -179,8 +186,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="CHINESE" value="187" />
+        <entry key="ENGLISH" value="177" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
