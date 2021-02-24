@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="766" />
     <option name="newTranslationDialogY" value="260" />
     <histories>
+      <item value="micro Metrics" />
       <item value="=" />
       <item value="metrics" />
       <item value="other tags" />
@@ -201,8 +202,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="198" />
-        <entry key="ENGLISH" value="187" />
+        <entry key="CHINESE" value="199" />
+        <entry key="ENGLISH" value="188" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
