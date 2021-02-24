@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="766" />
     <option name="newTranslationDialogY" value="260" />
     <histories>
+      <item value="CLAZZ" />
       <item value="gauge" />
       <item value="micro Metrics" />
       <item value="=" />
@@ -203,14 +204,14 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
+        <entry key="CHINESE" value="201" />
         <entry key="ENGLISH" value="189" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="1" />
-        <entry key="HINDI" value="3" />
+        <entry key="HINDI" value="4" />
         <entry key="INDONESIAN" value="4" />
       </map>
     </option>
