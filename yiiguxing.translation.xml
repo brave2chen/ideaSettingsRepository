@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="766" />
     <option name="newTranslationDialogY" value="260" />
     <histories>
+      <item value="pilot duplicate envoy clusters" />
       <item value="envoy pool queueing stream due to no available connections" />
       <item value="skip validate trust domain" />
       <item value="PERMISSIVE" />
@@ -207,8 +208,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="204" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="205" />
+        <entry key="ENGLISH" value="193" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
