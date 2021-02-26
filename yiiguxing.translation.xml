@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="766" />
     <option name="newTranslationDialogY" value="260" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="VUE APP DATA ANALYSE API" />
+      <item value="analyse" />
+      <item value="分析" />
       <item value="STALE" />
       <item value="external Traffic Policy" />
       <item value="tacotron" />
@@ -211,8 +215,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="CHINESE" value="210" />
+        <entry key="ENGLISH" value="196" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
