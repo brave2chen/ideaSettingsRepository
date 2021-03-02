@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="validate additional rrs" />
+      <item value="validate authority rrs" />
       <item value="Custom PrometheusRules to be defined" />
       <item value="elapsed" />
       <item value="remote early close" />
@@ -218,8 +220,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="213" />
-        <entry key="ENGLISH" value="199" />
+        <entry key="CHINESE" value="215" />
+        <entry key="ENGLISH" value="201" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
