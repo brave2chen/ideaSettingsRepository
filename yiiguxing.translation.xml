@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="elapsed" />
       <item value="remote early close" />
       <item value="VUE APP DATA ANALYSE API" />
       <item value="analyse" />
@@ -216,8 +217,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="211" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="CHINESE" value="212" />
+        <entry key="ENGLISH" value="198" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
