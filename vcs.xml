@@ -110,6 +110,10 @@
           <option name="url" value="http://git.midea.com/aicloud-speech/aicloud-nginx-docker.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.midea.com/huangke7/amr_dev_platform.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\workspaces" />
