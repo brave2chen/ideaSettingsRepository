@@ -6,6 +6,16 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="4. Find the running container =&gt; right click =&gt; attach to container. Then you will be provided a vscode session attach to the container and all operations are like on the host." />
+      <item value="5. In future, once there is new docker image update, you can run `sudo docker pull 10.3.225.11amrnoetic_foxy_amr_dev` to pull the latest version (or obtain new tags)." />
+      <item value="4. Setup ROS1 bridge by running `.setup_ros1_bridge.sh` inside DI." />
+      <item value="inside DI" />
+      <item value="3. Initialize ROS workspaces by running `.init_ws.sh` inside DI. You only need to run it once!" />
+      <item value="&gt; Alternatively, you can start docker with user mode. \" />
+      <item value="&gt;Note: the populated tabs and panes are terminals created from inside the container." />
+      <item value="&gt;Then you will see the terminator app started from by the docker. We'll call this terminator app &quot;development interface (DI)&quot; from now on. Feel free to use `Ctrl + Shift + T` to populate new tabs, `Ctrl + Shift + O` and `Ctrl + Shift + E` to split new panes.\" />
+      <item value="Quick Start" />
+      <item value="Prerequisites" />
       <item value="Guidance on IDE" />
       <item value="validate additional rrs" />
       <item value="validate authority rrs" />
@@ -221,14 +231,14 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
-        <entry key="ENGLISH" value="202" />
+        <entry key="CHINESE" value="226" />
+        <entry key="ENGLISH" value="211" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="3" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="4" />
         <entry key="INDONESIAN" value="4" />
       </map>
