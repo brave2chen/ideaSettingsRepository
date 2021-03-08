@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="They've only tested on Ubuntu 18.04 but should work on 20.04." />
+      <item value="If they are not present on your machine, you may use the installation scripts under `scripts` to install." />
+      <item value="1. You need to have both docker and nvidia-docker runtime installed." />
+      <item value="Prerequisites" />
       <item value="AMR Development Platform" />
       <item value="This Repo is temporary and will be forked into repo belongs to AMR group soon." />
       <item value="If you run docker without run.sh, remember add param --net=host" />
@@ -18,7 +22,6 @@
       <item value="&gt;Note: the populated tabs and panes are terminals created from inside the container." />
       <item value="&gt;Then you will see the terminator app started from by the docker. We'll call this terminator app &quot;development interface (DI)&quot; from now on. Feel free to use `Ctrl + Shift + T` to populate new tabs, `Ctrl + Shift + O` and `Ctrl + Shift + E` to split new panes.\" />
       <item value="Quick Start" />
-      <item value="Prerequisites" />
       <item value="Guidance on IDE" />
       <item value="validate additional rrs" />
       <item value="validate authority rrs" />
@@ -234,8 +237,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="229" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="CHINESE" value="233" />
+        <entry key="ENGLISH" value="218" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
