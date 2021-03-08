@@ -6,6 +6,23 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Maintainer" />
+      <item value="recommended" />
+      <item value="You only need to run it once!" />
+      <item value="Initialize ROS workspaces by running `.init_ws.sh` inside DI." />
+      <item value="Alternatively, you can start docker with user mode. \" />
+      <item value="Feel free to use `Ctrl + Shift + T` to populate new tabs," />
+      <item value="We'll call this terminator app &quot;development interface (DI)&quot;" />
+      <item value="Then you will see the terminator app started from by the docker." />
+      <item value="respectively" />
+      <item value="1. Create two workspace folders for ROS1 and ROS2 respectively" />
+      <item value="After you cloning this repo, take the following steps" />
+      <item value="Quick Start" />
+      <item value="server 10.3.225.11 resides in Midea internal network. You'll have to connect to Midea network." />
+      <item value="cuda" />
+      <item value="please replace daemon.json under etcdocker" />
+      <item value="you need to add the server to the docker configuration file." />
+      <item value="The pre-build docker image is currently hosted at ETC server 10.3.225.11." />
       <item value="They've only tested on Ubuntu 18.04 but should work on 20.04." />
       <item value="If they are not present on your machine, you may use the installation scripts under `scripts` to install." />
       <item value="1. You need to have both docker and nvidia-docker runtime installed." />
@@ -21,7 +38,6 @@
       <item value="&gt; Alternatively, you can start docker with user mode. \" />
       <item value="&gt;Note: the populated tabs and panes are terminals created from inside the container." />
       <item value="&gt;Then you will see the terminator app started from by the docker. We'll call this terminator app &quot;development interface (DI)&quot; from now on. Feel free to use `Ctrl + Shift + T` to populate new tabs, `Ctrl + Shift + O` and `Ctrl + Shift + E` to split new panes.\" />
-      <item value="Quick Start" />
       <item value="Guidance on IDE" />
       <item value="validate additional rrs" />
       <item value="validate authority rrs" />
@@ -237,12 +253,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
-        <entry key="ENGLISH" value="218" />
+        <entry key="CHINESE" value="250" />
+        <entry key="ENGLISH" value="234" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="4" />
