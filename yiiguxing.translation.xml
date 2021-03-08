@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="AMR Development Platform" />
+      <item value="This Repo is temporary and will be forked into repo belongs to AMR group soon." />
       <item value="If you run docker without run.sh, remember add param --net=host" />
       <item value="4. Find the running container =&gt; right click =&gt; attach to container. Then you will be provided a vscode session attach to the container and all operations are like on the host." />
       <item value="5. In future, once there is new docker image update, you can run `sudo docker pull 10.3.225.11amrnoetic_foxy_amr_dev` to pull the latest version (or obtain new tags)." />
@@ -232,8 +234,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="212" />
+        <entry key="CHINESE" value="229" />
+        <entry key="ENGLISH" value="214" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="DUTCH" value="1" />
@@ -246,7 +248,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614590480834" />
+    <option name="lastTrimTime" value="1615165987552" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
