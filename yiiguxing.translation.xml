@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="我发了条消息给你，收到了请回复一下" />
       <item value="Biz Scenario" />
       <item value="Maintainer" />
       <item value="recommended" />
@@ -254,8 +255,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="251" />
-        <entry key="ENGLISH" value="234" />
+        <entry key="CHINESE" value="252" />
+        <entry key="ENGLISH" value="235" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="DUTCH" value="1" />
