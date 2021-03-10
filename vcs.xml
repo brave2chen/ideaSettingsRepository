@@ -118,6 +118,10 @@
           <option name="url" value="http://git.midea.com/amr/landmark_detection.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.midea.com/amr/slam.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\workspaces" />
