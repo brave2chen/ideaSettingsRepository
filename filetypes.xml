@@ -12,6 +12,7 @@
       <mapping ext="lst" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="trigger" type="PLAIN_TEXT" />
       <mapping ext="conf" type="nginx" />
       <removed_mapping pattern="kiali.yaml" approved="true" type="Vue.js" />
     </extensionMap>
