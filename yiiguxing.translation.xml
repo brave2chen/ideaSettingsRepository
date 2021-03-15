@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Not candidate version" />
       <item value="hotwater" />
       <item value="docker Register" />
       <item value="我发了条消息给你，收到了请回复一下" />
@@ -257,8 +258,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="254" />
-        <entry key="ENGLISH" value="237" />
+        <entry key="CHINESE" value="255" />
+        <entry key="ENGLISH" value="238" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="DUTCH" value="1" />
@@ -272,7 +273,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615165987552" />
+    <option name="lastTrimTime" value="1615797462354" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
