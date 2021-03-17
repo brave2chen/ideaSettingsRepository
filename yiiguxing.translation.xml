@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="DO NOT USE IT, THIS MAKE MISTAKE" />
       <item value=". DO NOT USE IT, IT WILL MAKE MISTAKE" />
       <item value="O NOT USE, IT WILL MAKE MISTAKE" />
       <item value="reset password on startup" />
@@ -266,8 +267,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="263" />
-        <entry key="ENGLISH" value="245" />
+        <entry key="CHINESE" value="264" />
+        <entry key="ENGLISH" value="246" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="DUTCH" value="1" />
