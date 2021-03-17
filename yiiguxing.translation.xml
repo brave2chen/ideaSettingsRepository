@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reset password on startup" />
       <item value="backup" />
       <item value="bakeup" />
       <item value="change the software source" />
@@ -263,8 +264,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="260" />
-        <entry key="ENGLISH" value="242" />
+        <entry key="CHINESE" value="261" />
+        <entry key="ENGLISH" value="243" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="DUTCH" value="1" />
