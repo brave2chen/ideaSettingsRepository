@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="floor" />
+      <item value="ceil" />
+      <item value="floor Mod" />
       <item value="another" />
       <item value="misdirected" />
       <item value="Voyage" />
@@ -283,8 +286,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="283" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="286" />
+        <entry key="ENGLISH" value="265" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
@@ -294,7 +297,7 @@
         <entry key="SPANISH" value="3" />
         <entry key="ITALIAN" value="2" />
         <entry key="HINDI" value="4" />
-        <entry key="INDONESIAN" value="4" />
+        <entry key="INDONESIAN" value="5" />
       </map>
     </option>
   </component>
