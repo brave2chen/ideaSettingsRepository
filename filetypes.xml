@@ -4,6 +4,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="Dockerfile_gpu_base" type="PLAIN_TEXT" />
+      <mapping pattern="mir_keyboard_control" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="docker-init" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
