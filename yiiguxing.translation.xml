@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="766" />
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="04.infrastructure" />
+      <item value="infrastruction" />
       <item value="monitoring" />
       <item value="default" />
       <item value="prometheus" />
