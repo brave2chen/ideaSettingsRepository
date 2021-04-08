@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Fast : Automation handles tasks that would otherwise need to be done manually. Consistent : The build happens the same way every time, removing problems and confusion that can happen with manual builds. Repeatable : The build can be done multiple times with the same result. Any version of the source code can always be transformed into deployable code in a consistent way. Portable : The build can be done the same way on any machine. Anyone on the team can build on their machine, as well as on a shared build server. Building code doesn’t depend on specific people or machines. Reliable : There will be fewer problems caused by bad builds." />
       <item value="automation of the process of preparing code for deployment to a live environment" />
       <item value="even" />
       <item value="on this list. Setting this to the health check port will ensure that health" />
@@ -297,8 +298,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="298" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="299" />
+        <entry key="ENGLISH" value="278" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
