@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="automation of the process of preparing code for deployment to a live environment" />
       <item value="even" />
       <item value="on this list. Setting this to the health check port will ensure that health" />
       <item value="Note that AWS ELB will by default perform health checks on the first port" />
@@ -296,8 +297,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="297" />
-        <entry key="ENGLISH" value="276" />
+        <entry key="CHINESE" value="298" />
+        <entry key="ENGLISH" value="277" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
@@ -312,7 +313,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616979886087" />
+    <option name="lastTrimTime" value="1617844476326" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
