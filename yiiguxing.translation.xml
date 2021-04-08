@@ -6,6 +6,13 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="logging" />
+      <item value="Content" />
+      <item value="_count" />
+      <item value="seconds" />
+      <item value="pause seconds count" />
+      <item value="jvm gc pause seconds count" />
+      <item value="default" />
       <item value="A monitoring tool detects an increased load on the service An orchestration tool responds to this by spinning up additional resources to handle the load. When the load decreases again, the tool spins the additional resources back down, freeing them up to be used by something else. All of this happens while the engineer is getting coffee" />
       <item value="A customer requests more resources for a web service that is about to see a heavy increase in usage due to a planned marketing effort. Instead of manually standing up new nodes, operations engineers use an orchestration tool to request five more nodes to support the service. A few minutes later, the tool has five new nodes are up and running." />
       <item value="Faster time-to-market : Get features into the hands of customers more quickly rather than waiting for a lengthy deployment process that doesn’t happen often. Fewer problems caused by the deployment process : Since the deployment process is frequently used, any problems with the process are more easily discovered. Lower risk : The more changes are deployed at once, the higher the risk. Frequent deployments of only a few changes are less risky. Reliable rollbacks : Robust automation means rollbacks are a reliable way to ensure stability for customers, and rollbacks don’t hurt developers because they can roll forward with a fix as soon as they have one. Fearless deployments : Robust automation plus the ability to rollback quickly means deployments are commonplace, everyday events rather than big, scary events." />
@@ -22,7 +29,6 @@
       <item value="04.infrastructure" />
       <item value="infrastruction" />
       <item value="monitoring" />
-      <item value="default" />
       <item value="prometheus" />
       <item value="PROMETHEUS DINGTAKL CONFIG FILE" />
       <item value="list My Abnormal Attendance" />
@@ -305,8 +311,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="306" />
-        <entry key="ENGLISH" value="285" />
+        <entry key="CHINESE" value="307" />
+        <entry key="ENGLISH" value="286" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
