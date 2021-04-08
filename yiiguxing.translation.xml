@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Save time : It takes less time to change the configuration. Insight : With good configuration management, you can know about the state of all pieces of a large and complex infrastructure. Maintainability : A more maintainable infrastructure is easier to change in a stable way. Less configuration drift : It is easier to keep a standard configuration across a multitude of hosts." />
       <item value="logging" />
       <item value="Content" />
       <item value="_count" />
@@ -311,8 +312,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="307" />
-        <entry key="ENGLISH" value="286" />
+        <entry key="CHINESE" value="308" />
+        <entry key="ENGLISH" value="287" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
