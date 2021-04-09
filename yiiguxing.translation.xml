@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="test On Borrow" />
       <item value="Unlock Experimental VM Options" />
       <item value="Max RAM Fraction" />
       <item value="Use C Group Memory Limit For Heap" />
@@ -316,8 +317,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="314" />
-        <entry key="ENGLISH" value="293" />
+        <entry key="CHINESE" value="315" />
+        <entry key="ENGLISH" value="294" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
