@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Cppcheck" />
+      <item value="Daily" />
+      <item value="Jenkinsfile-Daily-Cppcheck.groovy" />
       <item value="堡垒机" />
       <item value="test On Borrow" />
       <item value="Unlock Experimental VM Options" />
