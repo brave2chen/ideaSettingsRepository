@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="portability" />
+      <item value="performance" />
       <item value="Can you build this job until it work well." />
       <item value="需要指向多次" />
       <item value="serveral times." />
@@ -325,8 +327,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="322" />
-        <entry key="ENGLISH" value="301" />
+        <entry key="CHINESE" value="324" />
+        <entry key="ENGLISH" value="303" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
