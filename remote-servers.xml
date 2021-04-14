@@ -1,11 +1,24 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="Docker" type="docker">
+    <remote-server name="标注-UAT-Docker-Service" type="docker">
       <configuration>
         <option name="apiUrl" value="tcp://10.18.62.64:2375" />
         <option name="pathMappings">
           <list />
         </option>
+      </configuration>
+    </remote-server>
+    <remote-server name="标注-PROD-Docker-Service" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://10.18.19.212:2375" />
+        <option name="pathMappings">
+          <list />
+        </option>
+      </configuration>
+    </remote-server>
+    <remote-server name="Local-Docker-Service" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://localhost:2375" />
       </configuration>
     </remote-server>
   </component>
