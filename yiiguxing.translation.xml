@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Can you build this job until it work well." />
+      <item value="需要指向多次" />
+      <item value="serveral times." />
+      <item value="serveral" />
       <item value="Use C Group Memory Limit For Heap" />
       <item value="Unlock Experimental VM Options" />
       <item value="Cppcheck" />
@@ -321,8 +325,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="318" />
-        <entry key="ENGLISH" value="297" />
+        <entry key="CHINESE" value="322" />
+        <entry key="ENGLISH" value="301" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
