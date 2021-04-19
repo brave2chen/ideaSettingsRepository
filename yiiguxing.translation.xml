@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="infer-mca-smart-oven" />
       <item value="utf-8" />
       <item value="portability" />
       <item value="performance" />
@@ -328,8 +329,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="304" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="305" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
@@ -344,7 +345,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618278310534" />
+    <option name="lastTrimTime" value="1618792834620" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
