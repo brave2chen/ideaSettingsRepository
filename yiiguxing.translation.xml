@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="One or more steps need to be included within each condition's block." />
       <item value="依赖的" />
       <item value="dependencies" />
       <item value="do Generate Submodule Configurations" />
@@ -334,8 +335,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="331" />
-        <entry key="ENGLISH" value="310" />
+        <entry key="CHINESE" value="332" />
+        <entry key="ENGLISH" value="311" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
