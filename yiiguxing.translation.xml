@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="do Generate Submodule Configurations" />
+      <item value="depends projects" />
       <item value="depend Project Names" />
       <item value="infer-mca-smart-oven" />
       <item value="utf-8" />
@@ -330,8 +332,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
-        <entry key="ENGLISH" value="306" />
+        <entry key="CHINESE" value="329" />
+        <entry key="ENGLISH" value="308" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
