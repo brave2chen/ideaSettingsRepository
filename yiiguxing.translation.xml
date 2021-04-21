@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="依赖的" />
+      <item value="dependencies" />
       <item value="do Generate Submodule Configurations" />
       <item value="depends projects" />
       <item value="depend Project Names" />
@@ -332,8 +334,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="329" />
-        <entry key="ENGLISH" value="308" />
+        <entry key="CHINESE" value="331" />
+        <entry key="ENGLISH" value="310" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
