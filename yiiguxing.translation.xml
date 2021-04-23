@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="check nodes startuped" />
+      <item value="check nodes startup is over" />
+      <item value="check nodes startup over" />
+      <item value="check-nodes-startup-over" />
       <item value="vulnerabilities" />
       <item value="mask Value" />
       <item value="token" />
