@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="766" />
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Storage Engine" />
+      <item value="存储引擎" />
       <item value="know code man" />
       <item value="知晓一切" />
       <item value="代码" />
