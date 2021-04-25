@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="landscape" />
       <item value="shallow" />
       <item value="Grab a Permalink" />
       <item value="draft" />
