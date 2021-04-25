@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="shallow" />
       <item value="Grab a Permalink" />
       <item value="draft" />
       <item value="check nodes startuped" />
@@ -360,7 +361,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618792834620" />
+    <option name="lastTrimTime" value="1619310120658" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
