@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Pisces" />
+      <item value="Mist" />
+      <item value="Muse" />
+      <item value="Console reminder if new version released." />
+      <item value="If false, merge configs from `_datanext.yml` into default configuration (rewrite). If true, will fully override default configuration by options from `_datanext.yml` (override). Only for NexT settings. And if true, all config from default NexT `_config.yml` have to be copied into `next.yml`. Use if you know what you are doing. Useful if you want to comment some options from NexT `_config.yml` by `next.yml` without editing default config." />
       <item value="trailing index" />
       <item value="landscape" />
       <item value="shallow" />
