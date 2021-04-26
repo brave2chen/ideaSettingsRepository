@@ -2,7 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="10.18.60.29" id="cf128464-d99f-4c6c-a941-de97f35fbffb" port="63496" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig host="120.79.187.242" id="a2c8ae75-875d-4e58-8035-6c29986f1165" keyPath="D:\MyData\chenqy28\hyx\服务器秘钥管理\id_rsa_for242.txt" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig host="120.79.187.242" id="a2c8ae75-875d-4e58-8035-6c29986f1165" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig host="10.33.195.46" id="a574b403-2b6c-4722-8d42-7bcd1b07b4bc" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
     </configs>
   </component>
