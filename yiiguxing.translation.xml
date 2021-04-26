@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="revoke" />
       <item value="Storage Engine" />
       <item value="存储引擎" />
       <item value="know code man" />
