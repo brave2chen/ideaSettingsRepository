@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Course Direct" />
       <item value="统计个数" />
       <item value="统计" />
       <item value="fixed cppcheck information statics error" />
