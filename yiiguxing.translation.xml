@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="unable to request certificate" />
       <item value="Recipe" />
       <item value="get Course Direct" />
       <item value="统计个数" />
