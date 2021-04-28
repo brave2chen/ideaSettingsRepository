@@ -166,6 +166,10 @@
           <option name="url" value="http://gitlab.com" />
           <option name="userName" value="brave2chen" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="bravechen@foxmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\workspaces" />
