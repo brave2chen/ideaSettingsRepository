@@ -1,11 +1,21 @@
 <application>
   <component name="AppStorage">
     <option name="maxHistorySize" value="500" />
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="578" />
     <option name="newTranslationDialogX" value="766" />
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="snapshot" />
+      <item value="quadratic" />
+      <item value="quadratic classifier" />
+      <item value="classifier" />
+      <item value="daemon" />
+      <item value="daemon&#10;" />
+      <item value="da" />
+      <item value="d" />
+      <item value="di" />
       <item value="smtpmock" />
       <item value="hatchery" />
       <item value="The URL (with protocol) that your users will use to reach the install." />
@@ -395,7 +405,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619743943628" />
+    <option name="lastTrimTime" value="1620263171255" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
