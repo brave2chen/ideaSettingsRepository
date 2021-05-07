@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The collection and presentation of data about the performance and stability of services and infrastructure." />
       <item value="snapshot" />
       <item value="quadratic" />
       <item value="quadratic classifier" />
