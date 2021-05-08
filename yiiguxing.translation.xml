@@ -8,6 +8,7 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="welcome aboard!!" />
       <item value="Thank you at all." />
       <item value="I noticed it has version in file name ... maybe they have newer version has been released, then remove older one ... check that for more details ... etc." />
       <item value="hm ... it could be caused from they remove that .deb file for particular reason ... we have 3 cases failed to get that file (you, me and jenkins server), isn't it?" />
