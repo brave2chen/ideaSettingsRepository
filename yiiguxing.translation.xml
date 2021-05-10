@@ -8,6 +8,10 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="在安装任何软件之前，应该先运行' apt-get update '以确保软件包地址是正确的。" />
+      <item value="before you install any software, you should run `apt-get update` first to ensure that the package address is correct." />
+      <item value="before you install any software, you should run `apt-get update` first." />
+      <item value="before you install some software, you should run `apt-get update` first." />
       <item value="angles" />
       <item value="welcome aboard!!" />
       <item value="Thank you at all." />
