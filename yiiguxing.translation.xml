@@ -3,11 +3,14 @@
     <option name="maxHistorySize" value="500" />
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="241" />
-    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogWidth" value="570" />
     <option name="newTranslationDialogX" value="766" />
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="tutorials" />
+      <item value="tutorial" />
+      <item value="教程" />
       <item value="在安装任何软件之前，应该先运行' apt-get update '以确保软件包地址是正确的。" />
       <item value="before you install any software, you should run `apt-get update` first to ensure that the package address is correct." />
       <item value="before you install any software, you should run `apt-get update` first." />
