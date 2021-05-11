@@ -8,6 +8,7 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Dock Perception" />
       <item value="tutorials" />
       <item value="tutorial" />
       <item value="教程" />
@@ -425,7 +426,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620263171255" />
+    <option name="lastTrimTime" value="1620727767802" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
