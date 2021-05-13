@@ -8,6 +8,8 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="install and config xvfb to support camera sensor's work." />
+      <item value="install and config xvfb to support camera sensor in gazebo simulator work." />
       <item value="protable" />
       <item value="Dock Perception" />
       <item value="tutorials" />
