@@ -8,6 +8,8 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ci: config xvfb by &quot;Xvfb :0 -screen 0 1920x1080x24&quot;" />
+      <item value="config xvfb by: Xvfb :0 -screen 0 1920x1080x24" />
       <item value="install and config xvfb to support camera sensor's work." />
       <item value="install and config xvfb to support camera sensor in gazebo simulator work." />
       <item value="protable" />
