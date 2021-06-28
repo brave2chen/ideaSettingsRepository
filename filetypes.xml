@@ -1,24 +1,33 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_gpu_base" type="PLAIN_TEXT" />
-      <mapping pattern="mir_keyboard_control" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="docker-init" type="PLAIN_TEXT" />
-      <mapping pattern="readme" type="PLAIN_TEXT" />
-      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
-      <mapping ext="ci" type="PLAIN_TEXT" />
-      <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="lst" type="PLAIN_TEXT" />
-      <mapping ext="lnk" type="PLAIN_TEXT" />
-      <mapping ext="types" type="PLAIN_TEXT" />
+      <mapping pattern="mir_keyboard_control" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
-      <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="trigger" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="nginx" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="lnk" type="PLAIN_TEXT" />
+      <mapping ext="lst" type="PLAIN_TEXT" />
+      <mapping ext="ci" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping pattern="*playbook.yml" type="YAML" />
+      <mapping pattern="*playbook.yaml" type="YAML" />
+      <mapping pattern="main.yml" type="YAML" />
+      <mapping pattern="main.yaml" type="YAML" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="kiali.yaml" approved="true" type="Vue.js" />
+      <mapping ext="conf" type="nginx" />
     </extensionMap>
   </component>
 </application>
