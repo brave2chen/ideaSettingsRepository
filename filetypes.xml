@@ -10,18 +10,18 @@
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="docker-init" type="PLAIN_TEXT" />
       <mapping pattern="mir_keyboard_control" type="PLAIN_TEXT" />
-      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="trigger" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="lnk" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
+      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="ci" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
-      <mapping pattern="*playbook.yml" type="YAML" />
-      <mapping pattern="*playbook.yaml" type="YAML" />
-      <mapping pattern="main.yml" type="YAML" />
-      <mapping pattern="main.yaml" type="YAML" />
+      <removed_mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yaml" type="YAML" />
+      <mapping ext="yaml" type="YAML_EX" />
+      <mapping ext="yml" type="YAML_EX" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
