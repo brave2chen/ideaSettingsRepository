@@ -440,13 +440,17 @@
       </app-key>
     </option>
     <option name="foldOriginal" value="true" />
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="AFRIKAANS" />
+      </google-translate>
+    </option>
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Monospaced" />
     <option name="primaryFontFamily" value="Monospaced" />
     <option name="showExplanation" value="true" />
     <option name="showWordsOnStartup" value="true" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="19480c7ee8866ad5" />
