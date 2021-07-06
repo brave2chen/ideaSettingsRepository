@@ -8,6 +8,7 @@
     <option name="newTranslationDialogY" value="260" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="personalization:" />
       <item value="ci: config xvfb by &quot;Xvfb :0 -screen 0 1920x1080x24&quot;" />
       <item value="config xvfb by: Xvfb :0 -screen 0 1920x1080x24" />
       <item value="install and config xvfb to support camera sensor's work." />
@@ -416,7 +417,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="334" />
-        <entry key="ENGLISH" value="313" />
+        <entry key="ENGLISH" value="315" />
+        <entry key="AFRIKAANS" value="2" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="2" />
@@ -431,7 +433,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621311393190" />
+    <option name="lastTrimTime" value="1625475665327" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
